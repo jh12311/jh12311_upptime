@@ -11,6 +11,20 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: ncu
+    url: https://www.ncu.edu.tw/tw/
+  - name: nthu
+    url: https://www.nthu.edu.tw/
+  - name: ntu
+    url: https://www.ntu.edu.tw/
+  - name: nycu
+    url: https://www.nycu.edu.tw/
+  - name: ncku
+    url: https://www.ncku.edu.tw/
+  - name: null
+    url: https://www.asdzxc123
+    
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
