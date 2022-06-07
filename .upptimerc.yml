@@ -21,7 +21,7 @@ sites:
     url: https://www.nycu.edu.tw/
   - name: ncku
     url: https://www.ncku.edu.tw/
-  - name: null
+  - name: none
     url: https://www.asdzxc123
     
     
